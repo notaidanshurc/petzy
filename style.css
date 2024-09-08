@@ -60,7 +60,7 @@ nav ul li a:hover {
 }
 
 .hero-content h2 {
-  color: #fff;
+  color: #ffa500;
   font-size: 48px;
   margin-bottom: 1rem;
 }
@@ -86,7 +86,7 @@ nav ul li a:hover {
 
 /* Features Section */
 #features {
-  background-color: #fff;
+  background-color: #232323;
   padding: 4rem 1rem;
   text-align: center;
 }
@@ -117,7 +117,7 @@ nav ul li a:hover {
 
 /* Footer */
 footer {
-  background-color: #333;
+  background-color: #232323;
   color: #fff;
   text-align: center;
   padding: 1rem 0;
